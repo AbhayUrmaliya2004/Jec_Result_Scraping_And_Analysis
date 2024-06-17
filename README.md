@@ -1,4 +1,4 @@
-This python script scrap result of student from JEC college website and later analysed data using visual charts 
+***This python script scrap result of student from JEC college website and later analysed data using visual charts***
 ### Branch wise Mean and Median SGPA
 
 ![branch_wise_sgpa](https://github.com/AbhayUrmaliya2004/Jec_Result_Scraping_And_Analysis/assets/141633724/3ee68f45-6e71-44e0-9050-2e253754f8fb)
