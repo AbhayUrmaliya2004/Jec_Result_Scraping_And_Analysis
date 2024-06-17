@@ -6,7 +6,8 @@
 ### Branch wise pass percentage students
 ### Double Bar Chart
 
-![branch_wise_sgpa](https://github.com/AbhayUrmaliya2004/Jec_Result_Scraping_And_Analysis/assets/141633724/71e06b84-4be6-4fb7-8e21-44a59132f012)
+![BarPassPct](https://github.com/AbhayUrmaliya2004/Jec_Result_Scraping_And_Analysis/assets/141633724/59adb889-bd83-4a40-b065-3e832851514e)
+
 
 
 ### Pie Chart
